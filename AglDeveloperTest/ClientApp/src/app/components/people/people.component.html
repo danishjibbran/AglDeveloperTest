@@ -1,0 +1,8 @@
+<h1>People by Gender</h1>
+<h5 *ngIf="peopleByGender && peopleByGender.length==0">No record found</h5>
+<ng-container *ngFor="let g of peopleByGender">
+  <h5 class="font-weight-bold">{{g.gender}}</h5>
+  <ul>
+    <li *ngFor="let p of g.people">{{p.name}}</li>
+  </ul>
+</ng-container>

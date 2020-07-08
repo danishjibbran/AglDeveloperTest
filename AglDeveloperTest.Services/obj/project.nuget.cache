@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9KQDnbPzEByNOAHZcePqAH2/7aLrJ7XjC31dXrSXY4SBvU9Snicbrx+y8H7v299lY1/3atV/kJbKZzJr8KA9/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danish Jibbran\\source\\repos\\AglDeveloperTest\\AglDeveloperTest.Services\\AglDeveloperTest.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danish Jibbran\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.5\\microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\Danish Jibbran\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Danish Jibbran\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

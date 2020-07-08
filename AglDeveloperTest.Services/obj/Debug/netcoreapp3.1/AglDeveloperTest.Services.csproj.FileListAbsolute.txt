@@ -1,0 +1,14 @@
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\bin\Debug\netcoreapp3.1\AglDeveloperTest.Services.deps.json
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\bin\Debug\netcoreapp3.1\AglDeveloperTest.Services.dll
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\bin\Debug\netcoreapp3.1\AglDeveloperTest.Services.pdb
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\bin\Debug\netcoreapp3.1\AglDeveloperTest.Models.dll
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\bin\Debug\netcoreapp3.1\AglDeveloperTest.Repositories.dll
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\bin\Debug\netcoreapp3.1\AglDeveloperTest.Models.pdb
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\bin\Debug\netcoreapp3.1\AglDeveloperTest.Repositories.pdb
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\obj\Debug\netcoreapp3.1\AglDeveloperTest.Services.csprojAssemblyReference.cache
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\obj\Debug\netcoreapp3.1\AglDeveloperTest.Services.AssemblyInfoInputs.cache
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\obj\Debug\netcoreapp3.1\AglDeveloperTest.Services.AssemblyInfo.cs
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\obj\Debug\netcoreapp3.1\AglDeveloperTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\obj\Debug\netcoreapp3.1\AglDeveloperTest.Services.csproj.CopyComplete
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\obj\Debug\netcoreapp3.1\AglDeveloperTest.Services.dll
+C:\Users\Danish Jibbran\source\repos\AglDeveloperTest\AglDeveloperTest.Services\obj\Debug\netcoreapp3.1\AglDeveloperTest.Services.pdb
