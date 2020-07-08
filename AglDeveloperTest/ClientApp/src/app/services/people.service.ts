@@ -1,7 +1,8 @@
 import { Injectable, Inject } from '@angular/core';
 import { People } from '../models/people';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
+import { Observable, of } from 'rxjs';
+import { catchError } from 'rxjs/operators';
 
 @Injectable({
   providedIn: 'root'
@@ -12,6 +13,11 @@ export class PeopleService {
   }
 
   getPeople(): Observable<People[]> {
-    return this.http.get<People[]>(this.baseUrl + 'people');
+    return this.http.get<People[]>(this.baseUrl + 'people').pipe(
+      catchError((error) => {
+        console.log(error);
+        return of([]); 
+      })
+    );
   }
 }
